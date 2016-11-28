@@ -1,0 +1,226 @@
+.one {
+  text-align: center;
+  color: orange;
+  margin-top: -15px;
+  height: 10px;
+}
+ .img {
+  position: absolute;
+   top: 50%;
+   left: 62%;
+   width: 130px;
+   height: 200px;
+   margin-top: -250px; /* Half the height */
+   margin-left: -250px;
+}
+
+.two {
+  text-align: center;
+  color: white;
+  text-transform: inherit;
+}
+
+.buju {
+  margin-left: 20px;
+  margin-top: 300px;
+  margin-right: 20px;
+  font-family: lato;
+  letter-spacing: 0.2px;
+}
+
+h2 {
+  text-align: center;
+  color: white;
+  margin-bottom: 290px;
+}
+
+body {
+  background:url("../assets/bg.jpg"); opacity: 1;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+  overflow-y: hidden;
+  overflow-x: hidden;
+
+}
+
+
+
+span {
+  text-transform: lowercase;
+}
+
+header {
+  position:fixed;
+	top: 0.5px;
+	left:330px;
+	width:49.2%;
+	background:#17233d;
+	padding:20px;
+  height: 45px;
+  right: 500px;
+}
+
+
+footer {
+position:fixed;
+bottom:0.18px;
+left:330px;
+width:49.3%;
+color:black;
+background:#333;
+padding:8px;
+height: 55px;
+right: 5000px;
+}
+
+.dubs {
+  position: absolute;
+   top: 20%;
+   left: 15%;
+   width: 150px;
+   height: 200px;
+
+}
+.style {
+border-radius: 45px;
+-moz-border-radius: 45px;
+-webkit-border-radius: 45px;
+width: 150px;
+height: 50px;
+background-color: #505050;
+display: block;
+margin: auto;
+position: absolute;
+top: 190px;
+bottom: 0;
+left: 0;
+right: 0;
+
+}
+
+.style p {
+  color: orange;
+  font-family: lato;
+  text-align: center;
+  text-indent: 50px;
+  font-size: 22px;
+  bottom: 200px;
+  line-height: 10px;
+  margin-top: 25px;
+}
+
+.tag {
+  font-size: 20px;
+  color: white;
+  font-family: lato;
+  position:absolute;
+  left:32%;
+  margin: auto;
+  padding: 0.24;
+  height: 200px;
+  top: 170px;
+}
+
+.tear {
+  position:absolute;
+  right: 28%;
+  margin: auto;
+  padding: 0.6;
+  height: 200px;
+  top: 170px;
+  color: white;
+  font-size: 20px;
+  font-family: lato;
+}
+
+.tag p {
+  top: -10%;
+  left: 50%;
+  font-weight: normal;
+
+}
+.tag h3 {
+  top: 1%;
+  left: 28%;
+  position: absolute;
+  margin: auto;
+  padding: 0.6;
+  height: 200px;
+}
+
+.tear h3 {
+  top: 1%;
+  margin: auto;
+  left: 25%;
+  height: 200px;
+  padding: 0.6;
+  position: absolute;
+}
+
+.tear p {
+  top: 1%;
+  right: -100%;
+}
+
+.camera {
+  font-size: 20px;
+  color: white;
+  font-family: lato;
+  position:absolute;
+  left:30%;
+  margin: auto;
+  padding: 0.24;
+  height: 200px;
+  bottom: -150px;
+}
+
+.camera h3 {
+  bottom: 0.7%;
+  margin: auto;
+  left: 122%;
+  height: 200px;
+  padding: 0.6;
+  position: absolute;
+  color: white;
+
+}
+
+.camera p {
+  bottom: -15%;
+  margin: auto;
+  left: 105%;
+  height: 200px;
+  padding: 0.6;
+  position: absolute;
+}
+
+.followers {
+  font-size: 20px;
+  color: white;
+  font-family: lato;
+  position:absolute;
+  left:590%;
+  margin: auto;
+  padding: 0.24;
+  height: 200px;
+  bottom: 0%;
+}
+
+.following {
+  font-size: 20px;
+  color: white;
+  font-family: lato;
+  position:absolute;
+  left:1190%;
+  margin: auto;
+  padding: 0.24;
+  height: 200px;
+  bottom: 0%;
+}
+
+}
+
+body background{
+  opacity: 0.2;
+}
